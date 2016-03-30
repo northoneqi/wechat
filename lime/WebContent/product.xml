@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menus>
+	<menu isdn='1001'>
+		<name>抽奖也商品</name>
+		<productList>
+		  <product>
+		    <id>772</id>
+		  </product>
+		  <product>
+		    <id>726</id>
+		  </product>
+		  <product>
+		    <id>723</id>
+		  </product>
+		  <product>
+		    <id>1137</id>
+		  </product>
+		   <product>
+		    <id>729</id>
+		  </product>
+		</productList>
+	</menu>
+	<menu isdn='1002'>
+		<name>特价</name>
+		<productList>
+		  <product>
+		    <id>729</id>
+		  </product>
+		  <product>
+		    <id>995</id>
+		  </product>
+		  <product>
+		    <id>1142</id>
+		  </product>
+		  <product>
+		    <id>1137</id>
+		  </product>
+		</productList>
+	</menu>
+</menus>

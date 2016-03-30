@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+body{background:#f5f5f5;}
+.main{width:98%; margin:1%; border:1px solid #ccc;text-align:left;border-radius:6px; background:#fff;}
+/*personal_order_detailed*/
+.main .main_1{width:94%; border-bottom:1px dashed #ccc; padding:2%; color:#333; font-size:16px; line-height:30px;}
+.main .main_1 span{color:#cc0000;}
+.main .main_1 .main_1_left{width:50%; float:left; line-height:40px; padding-top:1%;}
+.main .main_1 .main_1_right{width:50%; float:left; text-align:right; padding-top:2%;}
+
+.main .main_2{width:94%; border-bottom:1px dashed #ccc; padding:2%; color:#333; font-size:16px; line-height:30px;}
+.main .main_2 span{color:#cc0000;}
+.main .main_2 em{color:#999; font-style:normal;}
+.main .main_2 .main_2_left{width:25%; float:left; }
+.main .main_2 .main_2_right{width:75%; float:left; padding-top:2%;}
+
+/*personal_order_list*/
+.main .main_3{width:94%; padding:2% ; color:#333; font-size:16px; line-height:30px;}
+.main .main_3 span{color:#cc0000;}
+.main .main_3 .main_3_left{width:70%; float:left;}
+.main .main_3 .main_3_right{width:30%; float:left; text-align:right;}

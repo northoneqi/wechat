@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/js/index/scroll.js=UTF-8
+encoding//WebContent/WEB-INF/jsp/index.jsp=UTF-8
+encoding//WebContent/wxpay/instance.jsp=UTF-8
+encoding//src/com/qishi/controller/CardController.java=UTF-8
+encoding//src/com/qishi/controller/OrderAddressController.java=UTF-8
+encoding//src/com/qishi/controller/OrderCommonAddressController.java=UTF-8
+encoding//src/com/qishi/controller/SearchController.java=UTF-8
+encoding//src/com/qishi/controller/UserController.java=UTF-8
+encoding//src/com/qishi/dao/UserBasicDao.java=UTF-8
+encoding//src/com/qishi/dao/impl/UserBasicDaoImpl.java=UTF-8
+encoding//src/com/qishi/util/Pager.java=UTF-8
+encoding//src/org/qishi=UTF-8
+encoding/<project>=UTF-8

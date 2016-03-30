@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+body{background:#f5f5f5;}
+.main{width:97%; padding:3% 2% 3% 1%; border-bottom:1px dashed #ccc; height:136px;}
+.main .main_left{width:30%; float:left; background:#fff;}
+.main .main_left .main_left_top{height:20%;}
+.main .main_left .main_left_bottom{height:80%; text-align:center;}
+
+.main .main_center{width:35%; float:left; margin-left:10px;}
+.main .main_center .main_center_top{height:36px; color:#333; font-size:14px;}
+.main .main_center .main_center_center{ height:50px; font-size:14px; color:#cc0000;}
+.main .main_center .main_center_bottom{height:50px; }
+.main .main_center .main_center_bottom .main_center_bottom_left{float:left; }
+.main .main_center .main_center_bottom .main_center_bottom_center{float:left;}
+.main .main_center .main_center_bottom .main_center_bottom_center input{ border:1px solid #ccc; border-radius:5px; width:73px; height:36px; text-align:center; color:#333; font-size:18px; margin-left:5px; margin-right:5px;}
+.main .main_center .main_center_bottom .main_center_bottom_right{float:left; }
+
+.main .main_right{width:29%; float:right;}
+.main .main_right .main_right_top{height:56px; color:#cc0000; font-size:14px; text-align:right;}
+.main .mian_right .main_right_top .on{color:#999; font-size:12px; text-decoration:line-through; text-align:right;}
+.main .main_right .main_right_center{height:40px; text-align:right;}
+.main .main_right .main_right_bottom{height:40px; color:#333; font-size:14px; text-align:right;}
+
+.main1{width:97%; padding:3% 2% 3% 1%; color:#333; font-size:14px;}
+.main1 .main1_left{float:left; width:30%}
+.main1 .main1_right{float:right; width:69%; text-align:right;}
+
+.bottom{width:100%; height:55px;position:fixed;bottom: 0px;}
+.bottom .bottom_left{width:50%; height:50px; background:#dcdcdc; color:#333; font-size:18px; text-align:center; float:left;  padding-bottom:8.5px; padding-top:8.5px;}
+.bottom .bottom_left .hong{color:#cc0000;}
+.bottom .bottom_right{background:#cc0000; font-size:18px; color:#fff; text-align:center; float:left; width:50%; height:50px; padding-bottom:1.5px; padding-top:15.5px;}
+
+

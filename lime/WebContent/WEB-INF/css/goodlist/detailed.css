@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body{background:#f4f4f4;}
+.picture{width:100%; text-align:center; background:#fff; padding-top:20%; padding-bottom:5%;}
+
+.main{width:94%; padding-left:3%; padding-right:3%;  }
+
+.main .main1{width:100%; border-bottom:1px solid #ccc; padding-bottom:2%; padding-top:2%;}
+.main .main1 span{color:#333; font-size:14px; line-height:28px; }
+.main .main1 .on1{color:#cc0000; font-size:16px;}
+.main .main1 .on2{color:#999; font-size:12px; text-decoration:line-through; font-style:normal; }
+.main .main1 .on{color:#999;}
+
+.main .main2{width:100%; border-bottom:1px solid #ccc; padding-bottom:2%; padding-top:2%;text-align: left;}
+.main .main2 .shu{color:#333; font-size:18px; font-weight:bold; line-height:36px;}
+.main .main2 .main2_left{float:left;}
+.main .main2 .main2_center{float:left;}
+.main .main2 .main2_center input{ border:1px solid #ccc; border-radius:5px; width:73px; height:36px; text-align:center; color:#333; font-size:18px; margin-left:5px; margin-right:5px;}
+.main .main2 .main2_right{float:left; }
+.main .main2 .main_right_1{float:left; color:#999; font-size:14px; line-height:36px; padding-left:5px;}
+
+.main .main3{width:100%;padding-bottom:2%; padding-top:1%;text-align: left;}
+.main .main3 .img{text-align:center;}
+.main .main3 h1{color:#333; font-size:18px; font-weight:bold; line-height:18px;}
+.main .main3 p{color:#333; font-size:12px; line-height:24px; }
+.main .main3 p span{font-weight:bold;}
+
+.main .buttom{width:100%; background-color:#efefef; text-align:center; padding-left:1%; padding-right:5%;position:fixed;bottom: 0px;padding-bottom: 0%}
+.main .buttom_left{float:left;width: 45%;padding-top: 1%}
+.main .buttom_right{float:right;width: 45%;padding-right:5%;padding-top: 1%}
+.main .buttom_center{text-align:center;width: 100%;padding-right:5%;padding-top: 1%}
+
+.main .buttom2{width:100%; background-color:#efefef; text-align:center; padding-left:1%; padding-right:5%;position:fixed;bottom: 0px;padding-bottom: 0%}
+
+

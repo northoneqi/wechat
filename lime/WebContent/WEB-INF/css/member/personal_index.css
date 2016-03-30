@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+.main{width:100%; height:207px; background:#333; }
+.main .main_left{width:35%; float:left; text-align:center; padding-top:60px; padding-left:10%;}
+.main .main_right{width:55%; float:left; text-align:left; color:#fff; font-size:16px; line-height:25px; padding-top:50px;max-height: 130px; }
+
+.nav{width:98%; padding:2% 1% 1% 1%;}
+.nav .nav_1{width:100%; height:60px; line-height:60px; border:1px solid #ccc; border-radius:6px; margin-bottom:3%;}
+.nav .nav_1 .nav_1_left{width:50%; float:left; text-align:left; color:#333; font-size:16px; left:60px; text-indent:0.5em;}
+.nav .nav_1 .nav_1_right{width:49%; float:left; text-align:right; line-height:70px; padding-right:1px;}

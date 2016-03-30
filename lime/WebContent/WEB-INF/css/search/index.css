@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*banner*/
+.banner{text-align:center;padding-top: 8%; }
+
+/*nav*/
+.nav{width:100%; color:#999; font-size:12px; text-align:center; margin-top:-5px;   line-height:24px;}
+.nav a{color:#999;}
+.nav .nav1{width:33%;   border-right:1px solid #ccc; padding-top:7%; padding-bottom:7%;}
+.nav .nav2{width:33%;   border-right:1px solid #ccc; padding-top:7%; padding-bottom:7%; }
+.nav .nav3{width:33.9%;  padding-top:7%; padding-bottom:7%; }
+
+/*main*/
+.main{width:100%; height:50px; border-bottom:1px solid #ccc; border-top:1px solid #ccc; color:#999; font-size:22px; line-height:50px; text-indent:0.5em;}
+.main11{width:100%; height:50px; border-bottom:1px solid #ccc; border-top:1px solid #ccc; color:#999; font-size:16px; line-height:40px; margin-top:15%; text-indent:0.5em;word-break : normal | break-all | keep-all;}
+.main_1{width:100%; color:#999; font-size:12px; text-align:center; line-height:24px;}
+.main_1 a{color:#999;}
+.main_1 .main_1_a{width:33%;  border-right:1px solid #ccc;  padding-bottom:7%; padding-top:7%;}
+.main_1 .main_1_b{width:33%; border-right:1px solid #ccc;  padding-bottom:7%; padding-top:7%;}
+.main_1 .main_1_c{width:33.9%;    padding-bottom:7%; padding-top:7%;}
+.main_2{width:100%; color:#999; font-size:12px; text-align:center; line-height:24px;}
+.main_2 a{color:#999;}
+.main_2 .main_2_a{width:50%; border-right:1px solid #ccc; padding-bottom:7%; padding-top:7%;}
+.main_2 .main_2_b{width:50%; padding-bottom:7%; padding-top:7%;}
+

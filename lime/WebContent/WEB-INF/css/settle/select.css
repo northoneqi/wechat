@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+ .DivSelect
+{
+     position: relative;
+     background-color: transparent;
+     width:  99%;
+     height: 90%;
+     overflow: hidden; /*隐藏了小三角，因为宽度为110px,而select宽度为130px*/
+     border-width:0px;
+     border-top-style: none; 
+     border-right-style: none; 
+     border-left-style: none; 
+     border-bottom-style: none;
+}
+
+/*设置Select样式*/
+.SelectList
+{
+     position: absolute;
+     background-color: transparent;
+     TOP:    0px;
+     left:15px;
+     border-width: 0px;
+     border-top-style: none; 
+     border-right-style: none; 
+     border-left-style: none; 
+     border-bottom-style: none;
+     width:100%;
+     display:block;
+     height: 30%;
+     overflow:hidden;
+	 
+}

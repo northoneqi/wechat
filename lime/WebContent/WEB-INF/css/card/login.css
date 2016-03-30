@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+.logo{text-align:center; margin-top:15%; margin-bottom:5%; width:100%;}
+.icon{width:100%; text-align:center;}
+.icon .icon_left{width:35%; float:left; text-align:right;}
+.icon .icon_center{width:30%; float:left; text-align:center;}
+.icon .icon_right{width:35%; float:left; text-align:left;}
+.main{width:100%; margin-top:5%;}
+.main .main_left{width:20%; float:left; color:#333; font-size:12px; text-align:right; line-height:45px;}
+.main .main_center{width:60%; float:left;}
+.main .main_center input{border:1px solid #ccc; height:45px; line-height:45px; width:100%; color:#666; font-size:14px;}
+.main .main_right{width:20%; float:left;}
+.button{width:100%; margin-top:5%;}
+.button .button_left{width:20%; float:left; line-height:45px;}
+.button .button_center{width:60%; float:left; background:#2e8f02; font-size:16px; color:#fff; text-align:center; height:45px; line-height:45px; border-radius:6px;}
+.button .button_right{width:20%; float:left; line-height:45px;}
+.wen{width:100%; margin-top:5%;}
+.wen .wen_left{width:20%; float:left}
+.wen .wen_center{width:60%; float:left;}
+.wen .wen_center .wen_center_left{width:100%; float:left; background:#2e8f02; font-size:16px; color:#fff; text-align:center; height:45px; line-height:45px; border-radius:6px;}
+.wen .wen_center .wen_center_left a{ color:white; }
+.wen .wen_center .wen_center_right{float:left; width:50%; text-align:right; color:#999; font-size:12px;}
+.wen .wen_center .wen_center_right a{color:#999;}
+.wen .wen_right{width:20%; float:left;}
