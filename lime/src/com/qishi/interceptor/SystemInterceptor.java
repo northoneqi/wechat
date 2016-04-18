@@ -41,7 +41,7 @@ public class SystemInterceptor extends HandlerInterceptorAdapter {
 	public boolean preHandle(HttpServletRequest request,
 			HttpServletResponse response, Object handler) throws Exception {
 
-		HttpSession session = request.getSession();
+/*		HttpSession session = request.getSession();
 		String url = request.getRequestURL().toString();
 		System.out.println(url);
 		//活动url不拦截
@@ -106,7 +106,7 @@ public class SystemInterceptor extends HandlerInterceptorAdapter {
 		String shopnum = null;
 		List shopcartlist = new ArrayList();
 		shopcartlist = orderCartService.findcartgoodinfo(String.valueOf(userBasic.getUserID()), userBasic.getWX_OPENID());
-		session.setAttribute("cartnum", shopcartlist.size());
+		session.setAttribute("cartnum", shopcartlist.size());*/
 
 		return super.preHandle(request, response, handler);
 	}

@@ -42,7 +42,7 @@
 		});
 	</script>
 <a name="top"></a>
-<%-- <div class="header" >
+<div class="header" >
           <div class="header_left">
                     <a href="index"><img src="images/index/logo.png"></a>
           </div>
@@ -51,9 +51,9 @@
                     <div class="header_right_2"><a href="<c:url value="/memberCenter"/>"><img src="images/index/person.png"></a></div>
                     <div class="header_right_3"><a href="#"><img src="images/index/drive.png"></a></div>
           </div>
-</div> --%>
+</div>
 <c:import url="public/top.jsp"></c:import>
-       <div class="scroll">
+<div class="scroll">
 	<div class="slide_01" id="slide_01">
 	
 	<c:forEach items="${indexbanner }" var="indexbanner">

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server-apps-config>
+  <!-- 当前版本 -->
+  <version>1.0</version>
+  <!-- 系统域名 -->
+   <base-url></base-url>
+  <base-urlip></base-urlip>
+  <context>/lime/</context>
+  <APP_ID></APP_ID>
+  <APP_SECRET></APP_SECRET>
+  <!-- 财付通ID -->
+  <partnerId></partnerId>
+</server-apps-config>

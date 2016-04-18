@@ -22,7 +22,7 @@
 <body>
 <div class="header" >
           <div class="header_left">
-                    <a href="index"><img src="images/index/logo11.png"></a>
+                    <a href="index"><img src="images/index/logo.png"></a>
           </div> 
           <div class="header_right">
                    <div class="header_right_1"><a href="<c:url value="/toSearchPage"/>"><img src="images/index/sousuo.png"></a></div>
